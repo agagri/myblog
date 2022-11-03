@@ -1,7 +1,7 @@
 ---
+title: Laurea in Filosofia e Intelligenza artificiale
 layout: post
-title:  "Laurea in Filosofia e Intelligenza artificiale"
-date:   2022-11-03 11:00:20 +0200
+date: '2022-11-03 11:00:20 +0200'
 categories: Filosofia
 ---
 
@@ -20,10 +20,5 @@ Il sapere filosofico, nella sua dimensione teorica e storica, esamina diversi pr
 
 [Video Youtube di presentazione del corso](https://www.youtube.com/watch?v=EdvtBkRaqrI)
 
-`[![IMAGE ALT TEXT](https://github.com/agatino/myblog/blob/main/_posts/laureafilIA.jpg)](https://www.youtube.com/watch?v=EdvtBkRaqrI "Video presentazione corso di laurea")`
 
-# ![Video Youtube](https://github.com/agatino/myblog/blob/main/_posts/laureafilIA.jpg)
-![Video Youtube](laureafilIA.jpg)
-
-> Written with [StackEdit](https://stackedit.io/).
-
+[![Video laurea](https://img.youtube.com/vi/EdvtBkRaqrI/0.jpg)](https://www.youtube.com/watch?v=EdvtBkRaqrI "Video laurea")
